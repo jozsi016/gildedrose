@@ -3,7 +3,6 @@ package hu.jnagy.gildedrose;
 import java.util.List;
 
 public class GildedRose {
-
     public static final String BACKSTAG_CONCERT = "Backstage passes to a TAFKAL80ETC concert";
     public static final String SULFURAS = "Sulfuras, Hand of Ragnaros";
     private static final String AGED_BRIE = "Aged Brie";
